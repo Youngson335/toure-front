@@ -1,0 +1,110 @@
+[
+    {
+        "id": 1,
+        "discount": 25,
+        "liked": false,
+        "rating": 3,
+        "date": "22 ноября",
+        "night": 7,
+        "name": "Portobello Sochi (Портобелло Сочи)",
+        "location": "Россия, Сочи, Адлер",
+        "price": 350400,
+        "services": [
+            "ticket",
+            "housing",
+            "documents",
+            "travel"
+        ],
+        "place": 1
+    },
+    {
+        "id": 2,
+        "discount": 30,
+        "liked": true,
+        "rating": 4,
+        "date": "22 ноября",
+        "night": 7,
+        "name": "Arsi Enfi City Beach",
+        "location": "Инжекум - Алания",
+        "price": 450500,
+        "services": [
+            "ticket",
+            "housing",
+            "documents",
+            "travel"
+        ],
+        "place": 2
+    },
+    {
+        "id": 3,
+        "discount": 25,
+        "liked": false,
+        "rating": 3,
+        "date": "22 ноября",
+        "night": 7,
+        "name": "Portobello Sochi (Портобелло Сочи)",
+        "location": "Россия, Сочи, Адлер",
+        "price": 350400,
+        "services": [
+            "ticket",
+            "housing",
+            "documents",
+            "travel"
+        ],
+        "place": 3
+    },
+    {
+        "id": 4,
+        "discount": 20,
+        "liked": true,
+        "rating": 4,
+        "date": "22 ноября",
+        "night": 3,
+        "name": "Arsi Enfi City Beach",
+        "location": "Инжекум - Алания",
+        "price": 250500,
+        "services": [
+            "ticket",
+            "housing",
+            "documents",
+            "travel"
+        ],
+        "place": 4
+    },
+    {
+        "id": 5,
+        "discount": 25,
+        "liked": false,
+        "rating": 3,
+        "date": "22 ноября",
+        "night": 7,
+        "name": "Portobello Sochi (Портобелло Сочи)",
+        "location": "Россия, Сочи, Адлер",
+        "price": 350400,
+        "services": [
+            "ticket",
+            "housing",
+            "documents",
+            "travel"
+        ],
+        "place": 1
+    },
+    {
+        "id": 6,
+        "discount": 5,
+        "liked": true,
+        "rating": 4,
+        "date": "22 ноября",
+        "night": 15,
+        "name": "Arsi Enfi City Beach",
+        "location": "Инжекум - Алания",
+        "price": 550500,
+        "services": [
+            "ticket",
+            "housing",
+            "documents",
+            "travel"
+        ],
+        "place": 2
+    }
+]
